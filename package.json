@@ -1,0 +1,12 @@
+{
+  "name": "node-task-todo",
+  "bin": {"t": "cli.js"},
+  "version": "0.0.1",
+  "main": "index.js",
+  "files": ["*.js"],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "3.0.2",
+    "inquirer": "^7.0.0"
+  }
+}
